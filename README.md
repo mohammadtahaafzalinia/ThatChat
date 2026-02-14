@@ -12,6 +12,6 @@ An easy and fast chat with anyone you want
 <h1>Description</h1>
 <p>
 This program is made with web socket and Django and Django Channel. In this app, you can use your ID and the ID of the person you want to chat with to join a room and have your own private chat.
-My ID in ThatChat:TC-14615070
 </p>
+<p>My ID in ThatChat:TC-14615070</p>
 
